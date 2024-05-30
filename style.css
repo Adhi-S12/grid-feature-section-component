@@ -215,7 +215,7 @@ body {
   flex-direction: column;
   max-width: 22rem;
   padding: 1.75rem;
-  border-radius: 8px;
+  border-radius: 5px;
   background-color: #fff;
   box-shadow: rgba(222, 228, 239, 0.7) 2px 5px 8px 2px;
   text-align: left;
